@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <hibernate.version>5.4.6.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <springjpa.version>2.1.5.RELEASE</springjpa.version>
     </properties>
 
